@@ -1,0 +1,22 @@
+$f-main: 'Monserrat';
+
+$c-white: #fff;
+$c-green: #00ba94;
+$c-blue: #0061f2;
+$c-black: #69707a;
+$c-price: #363d47;
+$c-grey: rgba(255, 255, 255, 0.5) !important;
+$c-grey-1: #a7aeb8;
+
+$liniar-gradient-blue: linear-gradient(135deg, $c-blue 0%, rgba(105, 0, 199, 0.8) 100%) !important;
+$bg-teal: rgba(0, 186, 148, 1) !important;
+$bg-black: rgba(0, 0, 0, 0.1) !important;
+
+$boxShadow: 0 0.15rem 1.75rem 0 rgba(33, 40, 50, 0.15);
+$boxShadowAction: 0 0.5rem 2rem 0 rgba(33, 40, 50, 0.25);
+$transition: transform 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+$lg: 1200px;
+$md: 992px;
+$sm: 768px;
+$xs: 576px;
